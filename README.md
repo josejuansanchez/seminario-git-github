@@ -11,3 +11,4 @@ Añadimos una nueva línea.
 Se añade un nuevo texto.
 
 Cambio desde Visual Studio Code.
+Esta línea se está editando desde GitHub.Bla bla bla.
