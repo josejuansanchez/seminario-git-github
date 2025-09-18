@@ -7,3 +7,5 @@ Añadimos una nueva línea.
 **Este texto está en negrita**.
 
 *Este texto está en cursiva*.
+
+Se añade un nuevo texto.
